@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SyncFolders": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\happy\\OneDrive\\Desktop\\Tools\\CS Projects\\SyncFolders\\SyncFolders\\SyncFolders\\Sync\\source\"\r\n\"C:\\Users\\happy\\OneDrive\\Desktop\\Tools\\CS Projects\\SyncFolders\\SyncFolders\\SyncFolders\\Sync\\replica\"\r\n\"C:\\Users\\happy\\OneDrive\\Desktop\\Tools\\CS Projects\\SyncFolders\\SyncFolders\\SyncFolders\\Sync\\logfile.txt\"\r\n15"
+    }
+  }
+}

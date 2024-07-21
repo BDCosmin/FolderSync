@@ -1,0 +1,7 @@
+[21/07/24 13:46:02] [to KØZ]: Created directory: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\folder
+[21/07/24 13:46:02] [to KØZ]: Created directory: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\folder2
+[21/07/24 13:46:02] [to KØZ]: Copied: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\source\file.txt -> C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\file.txt
+[21/07/24 13:46:44] [to KØZ]: Copied: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\source\file.txt -> C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\file.txt
+[21/07/24 14:30:37] [to KØZ]: Created directory: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\folder
+[21/07/24 14:30:37] [to KØZ]: Created directory: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\folder2
+[21/07/24 14:30:37] [to KØZ]: Copied: C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\source\file.txt -> C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\Sync\replica\file.txt

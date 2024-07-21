@@ -1,0 +1,16 @@
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\bin\Debug\net6.0\SyncFolders.exe
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\bin\Debug\net6.0\SyncFolders.deps.json
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\bin\Debug\net6.0\SyncFolders.runtimeconfig.json
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\bin\Debug\net6.0\SyncFolders.dll
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\bin\Debug\net6.0\SyncFolders.pdb
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.AssemblyInfoInputs.cache
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.AssemblyInfo.cs
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.csproj.CoreCompileInputs.cache
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.dll
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\refint\SyncFolders.dll
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.pdb
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.genruntimeconfig.cache
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\ref\SyncFolders.dll
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.Properties.Resources.resources
+C:\Users\happy\OneDrive\Desktop\Tools\CS Projects\SyncFolders\SyncFolders\SyncFolders\obj\Debug\net6.0\SyncFolders.csproj.GenerateResource.cache
